@@ -1,0 +1,151 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1920px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1080px;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1080px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:532px;
+  width:1916px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:380px;
+  height:382px;
+}
+#u2 {
+  position:absolute;
+  left:891px;
+  top:566px;
+  width:380px;
+  height:382px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:183px;
+  width:376px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:379px;
+}
+#u4 {
+  position:absolute;
+  left:896px;
+  top:171px;
+  width:375px;
+  height:379px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:182px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:380px;
+  height:383px;
+}
+#u6 {
+  position:absolute;
+  left:1383px;
+  top:171px;
+  width:380px;
+  height:383px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:184px;
+  width:376px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:371px;
+  height:382px;
+}
+#u8 {
+  position:absolute;
+  left:1392px;
+  top:566px;
+  width:371px;
+  height:382px;
+}
+#u9 {
+  position:absolute;
+  left:2px;
+  top:183px;
+  width:367px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u10 {
+  position:absolute;
+  left:494px;
+  top:260px;
+  width:300px;
+  height:170px;
+  overflow:hidden;
+}
+#u10_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:170px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u10_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
